@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<dataIdInfo>
+<idPurp>For testing only</idPurp>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;{{<idAbs></idAbs>}}. The creation date of this data was: {{<createDate></createDate>}}, this data has been revised on {{<reviseDate></reviseDate>}}. The resolution of this data is: {{<value uom="m"></value>}} &lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+<idCredit>For testing only</idCredit>
+<idCitation>
+<resTitle>{{<resTitle><date>}}</resTitle>
+</idCitation>
+<searchKeys>
+<keyword>{{<keyword></keyword>}}</keyword>
+</searchKeys>
+<idPoC>
+<rpIndName>TBA</rpIndName>
+<rpOrgName>TBA</rpOrgName>
+<rpPosName>TBA</rpPosName>
+<role>
+<RoleCd value="010">
+</RoleCd>
+</role>
+</idPoC>
+<dataChar>
+<CharSetCd value="004">
+</CharSetCd>
+</dataChar>
+<resConst>
+<SecConsts>
+<class>
+<ClasscationCd value="002">
+</ClasscationCd>
+</class>
+<useLimit>Type of classification</useLimit>
+</SecConsts>
+</resConst>
+<resMaint>
+<maintFreq>
+<MaintFreqCd value="010">
+</MaintFreqCd>
+</maintFreq>
+</resMaint>
+<dataExt>
+<exDesc>Extent of the raster</exDesc>
+</dataExt>
+<dataLang>
+<languageCode value="ang">
+</languageCode>
+</dataLang>
+<tpCat>
+<TopicCatCd value="010">
+</TopicCatCd>
+</tpCat>
+</dataIdInfo>
+<mdHrLv>
+<ScopeCd value="005">
+</ScopeCd>
+</mdHrLv>
+<mdLang>
+<languageCode value="ang">
+</languageCode>
+</mdLang>
+<mdChar>
+<CharSetCd value="004">
+</CharSetCd>
+</mdChar>
+<mdMaint>
+<maintFreq>
+<MaintFreqCd value="011">
+</MaintFreqCd>
+</maintFreq>
+</mdMaint>
+<mdConst>
+<SecConsts>
+<class>
+<ClasscationCd value="002">
+</ClasscationCd>
+</class>
+</SecConsts>
+</mdConst>
+</metadata>
