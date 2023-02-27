@@ -1,0 +1,1 @@
+This script works in the same way as the XMLFeatureExtractor script, but has been designed to work with SecureWatch .docx metadata documents to output to a CSV.
