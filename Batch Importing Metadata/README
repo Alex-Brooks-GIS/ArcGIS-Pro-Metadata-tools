@@ -1,0 +1,21 @@
+Metadata Import Toolbox
+This repository contains a custom ArcPy geoprocessing tool that automates the import of metadata from XML files to their corresponding raster files within a specified workspace. The tool has been designed to be used in the ArcGIS environment.
+
+Requirements
+ArcGIS Pro or ArcMap with ArcPy library
+Python 3.x (compatible with ArcGIS Pro) or Python 2.x (compatible with ArcMap)
+
+Installation
+Clone or download the repository to your local machine.
+Open ArcGIS Pro or ArcMap.
+Add the Toolbox class to your ArcGIS environment:
+In ArcGIS Pro: Go to the Catalog pane, right-click on Toolboxes, and select Add Toolbox.
+In ArcMap: Go to the Catalog window, right-click on Toolboxes, and select Add Toolbox.
+Browse to the directory where you cloned or downloaded the repository, and select the Python file containing the Toolbox class.
+
+Usage
+The Import Raster Metadata geoprocessing tool requires two input parameters:
+
+Raster Directory: The directory containing the raster files for which metadata needs to be imported.
+Metadata Directory: The directory containing the XML metadata files corresponding to the raster files.
+The tool will iterate through all raster files in the workspace and import metadata from XML files with matching names. If metadata is not found for a raster file, a warning will be displayed in the Geoprocessing Messages.
